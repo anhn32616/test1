@@ -1,0 +1,10 @@
+C:\Users\anhn3\source\repos\StatusBar\bin\Debug\StatusBar.exe.config
+C:\Users\anhn3\source\repos\StatusBar\bin\Debug\StatusBar.exe
+C:\Users\anhn3\source\repos\StatusBar\bin\Debug\StatusBar.pdb
+C:\Users\anhn3\source\repos\StatusBar\obj\Debug\StatusBar.csprojAssemblyReference.cache
+C:\Users\anhn3\source\repos\StatusBar\obj\Debug\StatusBar.Properties.Resources.resources
+C:\Users\anhn3\source\repos\StatusBar\obj\Debug\StatusBar.csproj.GenerateResource.cache
+C:\Users\anhn3\source\repos\StatusBar\obj\Debug\StatusBar.csproj.CoreCompileInputs.cache
+C:\Users\anhn3\source\repos\StatusBar\obj\Debug\StatusBar.exe
+C:\Users\anhn3\source\repos\StatusBar\obj\Debug\StatusBar.pdb
+C:\Users\anhn3\source\repos\StatusBar\obj\Debug\StatusBar.Form1.resources
